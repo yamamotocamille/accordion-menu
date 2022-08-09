@@ -1,0 +1,38 @@
+@media (max-width: 480px){
+    .slides{
+        display: initial;
+    }
+
+    .slide{
+        width: 100%;
+        height: auto;
+    }
+
+    .slide-content{
+        width: 100%;
+        padding: 25px;
+        font-size: 95%;
+        background-color: initial;
+        color: #fff;
+    }
+
+    .slide a.action {
+        display: none;
+    }
+
+    .brand1 h2{
+        color: #fff;
+    }
+
+    .brand2 h2{
+        color: #fff;
+    }
+    
+    .brand3 h2{
+        color: #fff;
+    }
+    
+    .brand4 h2{
+        color: #fff;
+    }
+}
